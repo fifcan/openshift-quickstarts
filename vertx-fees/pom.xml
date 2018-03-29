@@ -49,7 +49,7 @@
                           </transformers>
                           <artifactSet>
                           </artifactSet>
-                          <outputFile>${project.build.directory}/${project.artifactId}-${project.version}-fat.jar</outputFile>
+                          <outputFile>${project.build.directory}/undertow-servlet.jar</outputFile>
                       </configuration>
                     </execution>
                 </executions>
